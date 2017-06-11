@@ -1,0 +1,4 @@
+<bot username here># botname
+<owner username here># owner
+oauth:<oauth string here># oAuth token
+<channel name here># channel to join
